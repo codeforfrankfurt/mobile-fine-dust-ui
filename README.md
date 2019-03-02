@@ -1,4 +1,4 @@
-# hackfrankfurt2018
+# Mobile Fine Dust UI
 
 > Visualization of fine dust data (PM2.5 and PM10) for #Hackfrankfurt 2018
 
